@@ -41,12 +41,12 @@ export const modelConfigs = [
     baseURL: "https://api.deepseek.com/v1"
   },
   {
-    model: "moonshot-v1-8k",
+    model: "moonshot-v1-32k",
     apiKey: "KIMI_API_KEY",
     baseURL: "https://api.moonshot.cn/v1"
   },
   {
-    model: "ernie-3.5-128k",
+    model: "ERNIE-X1-Turbo-32K-Preview",
     apiKey: "BAIDU_API_KEY",
     baseURL: "https://qianfan.baidubce.com/v2"
   }
